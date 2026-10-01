@@ -4,4 +4,4 @@
 
 - [Основы редактирования текса](/text.md)
 - [Markdown](/markdown.md)
-- [Mermaid](/Mermaid.md)
+- [Mermaid](/mermaid.md)
