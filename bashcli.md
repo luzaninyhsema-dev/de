@@ -333,7 +333,20 @@ rm {1..3}.txt
 ```shell
 rm -rf folder{1..3}
 ```
-
+Создать сложную структуру проекта
+```
+project/
+├── css/
+├── js/
+├── img/
+│   └── ico/
+├── fonts/
+└── pages/
+```
+Одной командой
+```shell
+mkdir -p project/{css,js,img/ico,fonts,pages}
+```
 
 
 ### Пасхалки
