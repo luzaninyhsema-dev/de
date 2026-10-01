@@ -5,3 +5,4 @@
 - [Основы редактирования текса](/text.md)
 - [Markdown](/markdown.md)
 - [Mermaid](/mermaid.md)
+- [bashcli](/bashcli.md)
