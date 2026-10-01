@@ -2,6 +2,6 @@
 
 ## Навигация
 
-- [Основы редактирования текса](/Redactor.md)
-- [Markdown](/b.md)
+- [Основы редактирования текса](/text.md)
+- [Markdown](/markdown.md)
 - [Mermaid](/Mermaid.md)
