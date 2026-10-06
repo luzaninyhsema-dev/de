@@ -7,4 +7,3 @@
 - [Mermaid](/mermaid.md)
 - [Bashcli](/bashcli.md)
 - [BashScript](/BashScript.md)
-- [Преподаватель](/https://gitflic.ru/project/rurewa/mfua.git)
