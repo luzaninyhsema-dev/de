@@ -6,4 +6,4 @@
 - [Markdown](/markdown.md)
 - [Mermaid](/mermaid.md)
 - [Bashcli](/bashcli.md)
-- [BashScript](/BashScript.md)
+- [BashScript](/Scripts/BashScript.md)
