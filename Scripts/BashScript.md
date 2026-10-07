@@ -54,6 +54,7 @@ read name
 echo "Привет, $name! Добро пожаловать!"
 ```
 ![alt text](../img/NewFolder.img/wr1.PNG)
+
 2. Калькулятор суммы (Создайте скрипт, который запрашивает два числа и выводит их сумму)
 ```bash
 #!/bin/bash
@@ -64,6 +65,7 @@ read num2
 echo "Сумма: $(($num1 + $num2))"
 ```
 ![alt text](../img/NewFolder.img/wr2.PNG)
+
 3. Проверка четности числа (Напишите скрипт, который определяет, является ли число четным или нечетным)
 ```bash
 #!/bin/bash
@@ -76,6 +78,7 @@ else
 fi
 ```
 ![alt text](../img/NewFolder.img/wr3.PNG)
+
 4. Скрипт - создатель структуры проектов (создайте скрипт, который делает структуру папок для веб-проекта)
 ```bash
 #!/bin/bash
@@ -84,6 +87,7 @@ touch my-project/index.html my-project/css/style.css my-project/js/script.js
 echo "Структура проекта создана."
 ```
 ![alt text](../img/NewFolder.img/wr4.PNG)
+
 5. Счетчик строк в файле (Напишите скрипт, который подсчитывает количество строк в указанном файле)
 ```bash
 #!/bin/bash
@@ -96,12 +100,14 @@ else
 fi
 ```
 ![alt text](../img/NewFolder.img/wr5.PNG)
+
 6. Генератор паролей (Создайте скрипт, который генерирует случайный пароль длиной 8 символов)
 ```bash
 #!/bin/bash
 tr -dc 'a-zA-Z0-9' < /dev/urandom | head -c 8
 ```
 ![alt text](../img/NewFolder.img/wr6.PNG)
+
 7. Поиск файлов (Напишите скрипт, который ищет файлы по расширению в текущей директории)
 ```bash
 #!/bin/bash
