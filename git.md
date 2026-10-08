@@ -360,10 +360,6 @@ git merge anybranch
 
 ### Мэмы по Git
 
-![Какой-то текст](/content/Git/img/1.jpg)
+![alt text](img/NewFolder.img/1.jpg)
 
-![Какой-то текст](/content/Git/img/2.jpg)
-
-![Какой-то текст](/content/Git/img/3.jpg)
-
-![Какой-то текст](1.jpg)
+![alt text](img/NewFolder.img/2.jpg)
