@@ -7,3 +7,4 @@
 - [Mermaid](/mermaid.md)
 - [Bashcli](/bashcli.md)
 - [BashScript](/Scripts/BashScript.md)
+- [Git](/git.md)
