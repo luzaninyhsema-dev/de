@@ -358,7 +358,7 @@ git merge anybranch
 - []()
 - []()
 
-### Мэмы по Git
+### Мэмы по Gity
 
 ![alt text](img/NewFolder.img/1.jpg)
 
