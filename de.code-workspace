@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "de",
+			"path": "."
+		},
+		{
+			"name": "NewFolder.img",
+			"path": "../Downloads/NewFolder.img"
+		}
+	],
+	"settings": {}
+}
