@@ -8,4 +8,5 @@
 - [Bashcli](/bashcli.md)
 - [BashScript](/Scripts/BashScript.md)
 - [Git](/git.md)
-- [Репозитори_с_сайтом](https://github.com/luzaninyhsema-dev/my-web-site.git)
+- [Репозиторий с сайтом](https://github.com/luzaninyhsema-dev/my-web-site.git)
+- [Репозиторий преподователя](https://gitflic.ru/project/rurewa/mfua.git)
