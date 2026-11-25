@@ -212,3 +212,4 @@ exit
 - [Docker Reminder](https://www.altlinux.org/Docker_Reminder)
 
 > Если вы обнаружили ошибку в этом тексте - сообщите пожалуйста автору!
+>
